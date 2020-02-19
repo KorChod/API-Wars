@@ -1,0 +1,50 @@
+#voting-statistics {
+    cursor: pointer
+}
+
+.vote-modal {
+    position: fixed;
+    left: 0;
+    top: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    opacity: 0;
+    height: 100%;
+    width: 100%;
+    visibility: hidden;
+}
+
+.vote-modal-content {
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    width: 25%;
+    height: 40%;
+    background-color: white;
+    border-radius: 2px;
+    padding: 5px;
+}
+
+.show-modal {
+    opacity: 1;
+    visibility: visible;
+    transform: scale(1.0);
+}
+
+.close-button {
+    cursor: pointer;
+    float: right;
+    top: 10px;
+    font-size: 20px;
+
+    text-align: center;
+}
+
+.close-button:hover {
+    background-color: darkgray;
+}
+
+.votes-table {
+    position: absolute;
+    top: 4em;
+}

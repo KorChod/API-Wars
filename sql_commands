@@ -1,0 +1,8 @@
+create table votes
+(
+	id serial
+		constraint votes_pk
+			primary key,
+	planet_name varchar not null,
+	submission_time timestamp default current_timestamp
+);
