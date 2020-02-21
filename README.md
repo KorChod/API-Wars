@@ -1,5 +1,5 @@
 # API-Wars
-Small project which was made as a JavaScript practice to get more experience using both internal and external web API. All the HTML markup is generated from the scripts to make it more dynamic and work like single-page application.
+Small project which was made as my JavaScript practice to get more experience using both internal and external web API. All the HTML markup is generated from the scripts to make it more dynamic and work like single-page application.
 
 A list of Star Wars planet is displayed with related information. 
 
