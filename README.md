@@ -27,14 +27,11 @@ Planets can be voted. There is a database on a server side to keep record on how
 - PostgreSQL
 
 ## Setup
-In order to run this application one should first create a database. 
-
-It should contain one table `votes`. You can find SQL command which creates this table in the `sql_commands` file.
-
-Create following environment variables in order to serve connection with the database properly:
-- `PSQL_USER_NAME`
-- `PSQL_PASSWORD`
-- `PSQL_HOST`
-- `PSQL_DB_NAME`
-
-Project was created using Virtual Environment. There are several packages used to make it run, for example Flask. Please install all the packages from `requirements.txt`.
+- create a database,
+- open `sql_commands` file and run the SQL command from its content to create a table `votes`,
+- create the following environment variables to establish connection with the database: 
+  - `PSQL_USER_NAME`,
+  - `PSQL_PASSWORD`,
+  - `PSQL_HOST`,
+  - `PSQL_DB_NAME`,
+ - install packages from `requirements.txt`.
