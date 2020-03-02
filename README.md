@@ -1,5 +1,5 @@
 # API-Wars
-A small project which was made as my JavaScript practice to get more experience using both internal and external web APIs. All the HTML markup is generated from the scripts to make it more dynamic and work like single-page application.
+A small project which was made as my JavaScript practice to get more experience using both internal and external web APIs. All the HTML markup is generated from the scripts to make it more dynamic and work like a single-page application.
 
 ## Screenshots
 
