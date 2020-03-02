@@ -20,6 +20,7 @@ A small project which was made as my JavaScript practice to get more experience 
 
 ## Goals
 The purpose of this project was to practice following subjects:
+- REST API,
 - handling data fetching and promises,
 - handling HTTP requests depending on HTTP methods,
 - asynchronous request handling,
