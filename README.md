@@ -26,6 +26,22 @@ Planets can be voted. There is a database on a server side to keep record on how
 - JavaScript
 - PostgreSQL
 
+## Goals
+The purpose of this project was to practice following subjects:
+- handling data fetching and promises,
+- handling HTTP requests depending on HTTP methods,
+- asynchronous request handling,
+- manipulating DOM from scripts,
+- integration with database,
+- SQL.
+
+## Implemented Features
+- fetch planets from `https://swapi.co/`,
+- display planets in a table,
+- create buttons to navigate between records,
+- button triggering planet's residents modal,
+- planet voting.
+
 ## Setup
 - create a database,
 - open `sql_commands` file and run the SQL command from its content to create a table `votes`,
