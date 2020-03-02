@@ -1,14 +1,6 @@
 # API-Wars
 A small project which was made as my JavaScript practice to get more experience using both internal and external web APIs. All the HTML markup is generated from the scripts to make it more dynamic and work like single-page application.
 
-A list of Star Wars planet is displayed with related information. 
-
-User can browse planets using buttons to move to previous/next records. If no records are available, buttons get disabled.
-
-The list of residents of each planet can be displayed in a modal when button with residents' number is pressed.
-
-Planets can be voted. There is a database on a server side to keep record on how many votes each planet got.
-
 ## Screenshots
 
 1. Planet list view:
