@@ -17,6 +17,7 @@ A small project which was made as my JavaScript practice to get more experience 
 - Flask
 - JavaScript
 - PostgreSQL
+- Bootstrap
 
 ## Goals
 The purpose of this project was to practice following subjects:
@@ -26,7 +27,8 @@ The purpose of this project was to practice following subjects:
 - asynchronous request handling,
 - manipulating DOM from scripts,
 - integration with database,
-- SQL.
+- SQL,
+- Bootstrap as a CSS framework.
 
 ## Implemented Features
 - fetch planets from `https://swapi.co/`,
